@@ -16,3 +16,5 @@ Nuclear stain (DAPI; usually blue channel)
 PhosphoERK stain (Alexa488; usually green channel)
 -----
 
+![Composite](https://user-images.githubusercontent.com/125930980/223320999-f7e3fc6a-3136-4214-9fd5-7c2db7510210.jpg)
+Composite
